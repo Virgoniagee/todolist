@@ -5,6 +5,8 @@
 - [ ] RPC
 - [ ] RESTful
 - [ ] Netty
+- [ ] ORM
+- [ ] SSM
 
 ### 框架
 
@@ -28,5 +30,7 @@
 - [ ] kubernetes 部署、环境隔离
 - [ ] kubectl
 
+### 设计
 
+- [ ] 表结构设计
 
